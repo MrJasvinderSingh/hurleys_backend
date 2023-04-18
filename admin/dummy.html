@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            $(document).ready(function(){
+
+$('#nOPtions').on('change', function (e) {
+    
+       var noofoptions = $(this).val();
+       for(var i =1; i <= noofoptions; i++)
+           {
+                
+       if($('#optionPanellDiv'+noofoptions).length){ }
+       else {
+       $('#AddNewoption').append('<div class="panel panel-default" id="optionPanellDiv2"><div class="panel-heading"><div class="row" style="padding-bottom:0; "><div class="col-lg-6"><h5><b>Options</b> <i class="icon-question-sign" data-placement="top" data-toggle="tooltip" data-original-title="Use this feature if you want to provide different options or combos for same item (i.e Pizza Base or Combos). Price   will be additional price which will added in base price. "></i></h5></div><div class="col-lg-6 text-right"><button class="btn btn-success" type="button" onclick="options_fields('+noofoptions+');"> <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> </button></div></div></div><div class="panel-body" style="padding: 25px;"><div id="options_fields2"></div></div></div>');}
+   
+                                        
+        }
+        
+        for(var l = noofoptions; l <=15; l++)
+        {
+            $('#optionPanellDiv'+l).remove();
+                            
+         }
+      
+       
+        });
+
+
+    });
+        </script>
+    </head>
+    <body>
+        <div>TODO write content</div>
+        
+        <div class="row"><div class="col-lg-12"><label>Name Of option <i class="icon-question-sign" data-placement="top" data-toggle="tooltip" data-original-title=""></i></label></div><div class="col-lg-12"><input type="text" class="form-control" id="vOptionCat" name="vOptionCat[]" required="required" value="" ></div></div><div class="row"><div class="col-lg-12"><label>Required for ordering<i class="icon-question-sign" data-placement="top" data-toggle="tooltip" data-original-title=""></i></label> </div><div class="col-lg-12"><div class="make-switch" data-on="success" data-off="warning" data-on-text="Yes" data-off-text="No" id="mySwitchOption" ><input type="checkbox" name="vOptionReq[]"  id="vOptionCat" /></div></div></div>
+    </body>
+</html>

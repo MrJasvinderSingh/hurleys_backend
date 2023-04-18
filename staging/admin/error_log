@@ -1,0 +1,121 @@
+[31-Aug-2018 06:54:52 UTC] PHP Notice:  Undefined variable: UpdateDatabase in /home/chowcall123/public_html/assets/libraries/db_info.php on line 13
+[31-Aug-2018 06:54:52 UTC] PHP Notice:  Undefined index: tsite_admin_url in /home/chowcall123/public_html/assets/libraries/class.general_admin.php on line 184
+[31-Aug-2018 06:54:53 UTC] PHP Notice:  Undefined variable: UpdateDatabase in /home/chowcall123/public_html/assets/libraries/db_info.php on line 13
+[31-Aug-2018 06:54:53 UTC] PHP Notice:  Undefined index: edita in /home/chowcall123/public_html/admin/index.php on line 31
+[31-Aug-2018 06:54:53 UTC] PHP Notice:  Undefined index: current_link in /home/chowcall123/public_html/admin/index.php on line 124
+[31-Aug-2018 06:56:52 UTC] PHP Notice:  Undefined variable: UpdateDatabase in /home/chowcall123/public_html/assets/libraries/db_info.php on line 13
+[31-Aug-2018 06:56:52 UTC] PHP Notice:  Undefined index: tsite_admin_url in /home/chowcall123/public_html/assets/libraries/class.general_admin.php on line 184
+[31-Aug-2018 06:56:53 UTC] PHP Notice:  Undefined variable: UpdateDatabase in /home/chowcall123/public_html/assets/libraries/db_info.php on line 13
+[31-Aug-2018 06:56:53 UTC] PHP Notice:  Undefined index: edita in /home/chowcall123/public_html/admin/index.php on line 31
+[31-Aug-2018 06:56:53 UTC] PHP Notice:  Undefined index: current_link in /home/chowcall123/public_html/admin/index.php on line 124
+[26-Sep-2018 10:59:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/chowcall123/public_html/admin/vehicle_add_form.php on line 302
+[26-Sep-2018 10:59:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/chowcall123/public_html/admin/vehicle_add_form.php on line 302
+[30-Jul-2019 08:19:03 US/Eastern] PHP Warning:  include_once(include_config.php): failed to open stream: No such file or directory in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 5
+[30-Jul-2019 08:19:03 US/Eastern] PHP Warning:  include_once(): Failed opening 'include_config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 5
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 53
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 56
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 59
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 62
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: TTLOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 160
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: PLOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 161
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: ACOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 162
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: ASOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 163
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: PUOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 164
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: EROrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 165
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: DELOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 166
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: CANCOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 167
+[30-Jul-2019 08:19:03 US/Eastern] PHP Notice:  Undefined variable: TTLDriverO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 201
+[30-Jul-2019 08:19:13 US/Eastern] PHP Warning:  include_once(include_config.php): failed to open stream: No such file or directory in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:13 US/Eastern] PHP Warning:  include_once(): Failed opening 'include_config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:20 US/Eastern] PHP Warning:  include_once(include_config.php): failed to open stream: No such file or directory in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:20 US/Eastern] PHP Warning:  include_once(): Failed opening 'include_config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:25 US/Eastern] PHP Warning:  include_once(include_config.php): failed to open stream: No such file or directory in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:25 US/Eastern] PHP Warning:  include_once(): Failed opening 'include_config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:32 US/Eastern] PHP Warning:  include_once(include_config.php): failed to open stream: No such file or directory in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:32 US/Eastern] PHP Warning:  include_once(): Failed opening 'include_config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/getOnlineDriverListoc.php on line 5
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Constant TPATH_CLASS already defined in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config.php on line 4
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: iCustomerId in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 3
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: iCustomerId in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 240
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Constant SITE_TYPE already defined in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 475
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Constant RIIDE_LATER already defined in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 476
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Constant PROMO_CODE already defined in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 477
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: iCustomerId in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 479
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/assets/libraries/class.general.php on line 4231
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: iCustomerId in /home/xvhxak6s7lno/public_html/getchew.anviam.in/include_config_inc.php on line 713
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: iServiceId in /home/xvhxak6s7lno/public_html/getchew.anviam.in/generalFunctions.php on line 3096
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined offset: 0 in /home/xvhxak6s7lno/public_html/getchew.anviam.in/generalFunctions.php on line 2432
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: PUBNUB_DISABLED in /home/xvhxak6s7lno/public_html/getchew.anviam.in/generalFunctions.php on line 3182
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ENABLE_PUBNUB in /home/xvhxak6s7lno/public_html/getchew.anviam.in/generalFunctions.php on line 3187
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: sourceLoc in /home/xvhxak6s7lno/public_html/getchew.anviam.in/generalFunctions.php on line 3263
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: destLoc in /home/xvhxak6s7lno/public_html/getchew.anviam.in/generalFunctions.php on line 3264
+[30-Jul-2019 08:19:34 US/Eastern] PHP Warning:  include_once(include_config.php): failed to open stream: No such file or directory in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 5
+[30-Jul-2019 08:19:34 US/Eastern] PHP Warning:  include_once(): Failed opening 'include_config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 5
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 53
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 56
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 59
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: host_system in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/header.php on line 62
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: TTLOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 160
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: PLOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 161
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ACOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 162
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: ASOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 163
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: PUOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 164
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: EROrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 165
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: DELOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 166
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: CANCOrderO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 167
+[30-Jul-2019 08:19:34 US/Eastern] PHP Notice:  Undefined variable: TTLDriverO in /home/xvhxak6s7lno/public_html/getchew.anviam.in/admin/operationscenter.php on line 201

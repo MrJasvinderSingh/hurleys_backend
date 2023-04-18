@@ -1,0 +1,206 @@
+@media print {
+* {
+	text-shadow: none!important;
+	color: #000!important;
+	background: transparent!important;
+	box-shadow: none!important
+}
+a, a:visited {
+	text-decoration: underline
+}
+a[href]:after {
+	content: " (" attr(href) ")"
+}
+abbr[title]:after {
+	content: " (" attr(title) ")"
+}
+.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+	content: ""
+}
+pre, blockquote {
+	border: 1px solid #999;
+	page-break-inside: avoid
+}
+thead {
+	display: table-header-group
+}
+tr, img {
+	page-break-inside: avoid
+}
+img {
+	max-width:100%!important;
+}
+@page {
+    margin:.5cm;
+}
+p, h2, h3 {
+	orphans:3;
+	widows:3;
+}
+h2, h3 {
+	page-break-after:avoid;
+}
+
+}
+
+@media screen and (min-width:1px) and (max-width:767px) {
+#main-uber-page{ width:100%;}
+.top-logo-menu-part-inner{width:99%;}
+.top-part-inner-home{width:100%;}
+.banner-text-inner{ width:98%;}
+.banner-text-inner h1{ font-size:65px;}
+.banner-text-inner h1 b{ font-size:36px;}
+.banner-text-inner h1::after{ top:145px;}
+
+.why-choose-us-part-inner{width:97%;}
+.why-choose-us-part-left{ width:100%; position:relative; top:0; text-align:center;}
+.why-choose-us-part-right{ margin:20px 0 0; width:100%;}
+.why-choose-us-part-right h2{ font-size:39px;}
+.why-choose-us-part-right li span{ width:80%;}
+
+.services-part{ background:#3f2a1d;}
+.services-part-inner{ width:95%; padding:0px;}
+.services-part-inner ul li{ margin:0 0 40px; width:100%;}
+.services-part-inner ul li p{ width:100%; padding:0 10px;}
+.services-part-inner ul li strong{ margin:20px 0 10px;}
+
+.download-app-today{ margin:30px 0 0;}
+.download-app-today-inner{ width:96%;}
+.download-app-today-text{ position:relative; float:left; top:0; width:100%;}
+.download-app-today-text h3{ font-size:32px;}
+.download-app-today-text p{ margin:0px; font-size:18px; line-height:27px;}
+.download-app-today-text span img{ width:200px;}
+
+.mobile-app-screen span{ width:33%;}
+.mobile-app-screen span img{ max-width:100%;}
+.mobile-app-screen b{ width:33%; margin:154px 0 0;}
+.mobile-app-screen b img{ max-width:100%;}
+.mobile-app-screen em{ width:33%; margin:229px 0 0;}
+.mobile-app-screen em img{ max-width:100%;}
+
+.about-banner-inner{ width:97%;}
+.about-banner p{ margin:0 0 15px;}
+
+.most-trusted-restaurants-inner{ width:83%;}
+.most-trusted-restaurants-inner h4{ font-size:30px; letter-spacing:normal;}
+.most-trusted-restaurants ul{ width:295px; margin:0 auto; float:none;}
+.most-trusted-restaurants ul li{ margin:0 0 20px;}
+.most-trusted-restaurants ul li:last-child{ margin:0 0 20px;}
+}
+
+@media screen and (min-width:1px) and (max-width:567px) {
+.footer-part1{ width:100%;}
+.footer-part2{ margin:25px 0 0; width:100%;}
+.footer-part3{ width:100%; margin:12px 0 0;}
+.footer-part4{ width:100%;}
+}
+
+@media screen and (min-width:1px) and (max-width:414px) {
+.banner-text-inner h1{font-size:46px;}
+.banner-text-inner h1 b{line-height:40px;}
+.banner-text-inner p{ font-size:19px;}
+
+.why-choose-us-part-right h2{ font-size:32px; text-align:center;}
+.why-choose-us-part-right h2::after{ margin:12px auto 0;}
+.why-choose-us-part-left img{ max-width:85%;}
+.why-choose-us-part-right li{ text-align:center;}
+.why-choose-us-part-right li b{ width:100%;}
+.why-choose-us-part-right li span{ margin:15px 0 0; width:100%;}
+
+.download-app-today-text h3{font-size:29px; letter-spacing:0;}
+.download-app-today-text p{ font-size:17px; line-height:25px; width:100%;}
+.download-app-today-text span img{ width:46%;}
+
+.mobile-app-screen span{ float:left; width:100%; text-align:center;}
+.mobile-app-screen span img{ float:none;}
+.mobile-app-screen b{ width:50%; margin:45px 0 0;}
+.mobile-app-screen em{ width:50%; margin:128px 0 0;}
+
+.about-banner{ background-size:cover; height:auto; padding:0 0 40px;}
+.about-banner strong{ margin:0 0 20px;}
+
+.most-trusted-restaurants-inner{ width:100%;}
+.most-trusted-restaurants-inner h4{font-size:26px;}
+.most-trusted-restaurants-inner h4::after{ margin:9px auto 0;}
+}
+
+@media screen and (min-width:1px) and (max-width:400px) {
+.banner-text-inner h1{font-size:42px;}
+.top-part-inner-home{ height:625px;}
+.download-app-today-text span a{ margin:0 7px;}
+.mobile-app-screen em{ margin:117px 0 0;}
+.about-banner strong{ font-weight:500;}
+}
+
+@media screen and (min-width:568px) and (max-width:666px) {
+.footer-part1{ width:100%;}
+.footer-part2{ margin:25px 0 0; width:100%;}
+.footer-part3{ width:100%; margin:12px 0 0;}
+.footer-part4{ width:100%;}
+}
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+.top-logo-menu-part-inner{width:99%;}
+
+.top-part-inner-home{width:100%;}
+.banner-text-inner h1{ font-size:65px;}
+.banner-text-inner h1 b{ font-size:36px;}
+.banner-text-inner h1::after{ top:145px;}
+
+.why-choose-us-part-inner{width:97%;}
+.why-choose-us-part-left{ width:100%; position:relative; top:0; text-align:center;}
+.why-choose-us-part-right{ margin:20px 0 0; width:100%;}
+.why-choose-us-part-right h2{ font-size:39px;}
+
+.services-part-inner{ width:100%;}
+.services-part-inner ul li p{ width:100%; padding:0 10px;}
+
+.download-app-today{ margin:30px 0 0;}
+.download-app-today-inner{ width:96%;}
+.download-app-today-text{ position:relative; float:left; top:0; width:100%;}
+.download-app-today-text p{ margin:0px;}
+.mobile-app-screen span{ width:33%;}
+.mobile-app-screen span img{ max-width:100%;}
+.mobile-app-screen b{ width:33%; margin:207px 0 0;}
+.mobile-app-screen b img{ max-width:100%;}
+.mobile-app-screen em{ width:33%; margin:309px 0 0 0;}
+.mobile-app-screen em img{ max-width:100%;}
+
+.about-banner-inner{ width:97%;}
+
+.most-trusted-restaurants-inner{ width:83%;}
+.most-trusted-restaurants-inner h4{ font-size:35px;}
+.most-trusted-restaurants ul li{ margin:0 10px 20px;}
+.most-trusted-restaurants ul li:last-child{ margin:0 10px 20px;}
+
+/******/
+
+
+}
+
+@media screen and (min-width:1024px) and (max-width:1300px) {
+.top-logo-menu-part-inner{width:99%;}
+
+.top-part-inner-home{width:100%;}
+.why-choose-us-part-inner{width:100%;}
+.why-choose-us-part-left{ width:400px; position:relative; top:0;}
+.why-choose-us-part-right{ margin:0 0 0 20px; width:57%;}
+
+.services-part-inner{ width:100%;}
+.services-part-inner ul li p{ width:100%; padding:0 10px;}
+
+.download-app-today{ margin:30px 0 0;}
+.download-app-today-inner{ width:96%;}
+.download-app-today-text{ position:relative; float:left; top:0; width:100%;}
+.download-app-today-text p{ margin:0px;}
+.mobile-app-screen span{ width:33%;}
+.mobile-app-screen span img{ max-width:100%;}
+.mobile-app-screen b{ width:33%; margin:207px 0 0;}
+.mobile-app-screen b img{ max-width:100%;}
+.mobile-app-screen em{ width:33%; margin-left:0px;}
+.mobile-app-screen em img{ max-width:100%;}
+
+.most-trusted-restaurants-inner{ width:98%;}
+.most-trusted-restaurants ul li{ margin:0 10px 20px;}
+
+}
